@@ -1,0 +1,3 @@
+/home/byeonyh/emotion2/CMakeFiles/rebuild_cache.dir
+/home/byeonyh/emotion2/CMakeFiles/Emotion_Recognition.dir
+/home/byeonyh/emotion2/CMakeFiles/edit_cache.dir
